@@ -1,0 +1,11 @@
+   .yellowColor {
+  color: yellow;
+  font-family: arial;
+  font-size: 24px;
+}
+
+span.yellowColor {
+  color: yellow;
+  font-family: arial;
+  font-size: 24px;
+}
